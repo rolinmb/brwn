@@ -47,7 +47,7 @@ window.addEventListener('popstate', (event) => {
 	}
 });
 
-handleClick = (state) => {
+handleClick = (state) => { // redundant but desired effect achieved
 	let id = state["contentId"];
 	window.history.pushState({id}, null, 'index.html#'+id);
 	let contents = document.getElementsByClassName("text-content");
