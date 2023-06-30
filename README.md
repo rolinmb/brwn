@@ -1,1 +1,1 @@
-Development preview hosted with Google Firebase [here]("https://brwn-c7634.web.app/index.html#index-content")
+Development preview hosted with Google Firebase
